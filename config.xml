@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.economizebr" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>EcBR 4</name>
+    <name>Sensor Expand</name>
     <description>
-        A blank PhoneGap app.
+        4a versao de teste
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        OtonTech
     </author>
     <content src="index.html" />
     <access origin="*" />
